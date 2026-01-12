@@ -2,6 +2,9 @@
 <h3 align="center">Desenvolvedor Full Stack | Tech Lead | Entusiasta de Automação</h3>
 
 <p align="center">
+  <a href="https://portifolio-three-pi-11.vercel.app">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/luis-roberto-4aa69b30a/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -35,10 +38,14 @@ Sou um desenvolvedor apaixonado por lógica e infraestrutura, migrando do desenv
 
 <div align="center">
   <a href="https://github.com/Psyducks2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Psyducks2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyducks2&layout=compact&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Psyducks2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyducks2&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
   </a>
 </div>
+
+<p align="center">
+  <a href="https://portifolio-three-pi-11.vercel.app">Visite meu Portfólio</a>
+</p>
 
 <div align="center">
   <img src="https://github.com/Psyducks2/Psyducks2/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
