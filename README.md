@@ -41,5 +41,5 @@ Sou um desenvolvedor apaixonado por lógica e infraestrutura, migrando do desenv
 </div>
 
 <div align="center">
-  <img src="https://github.com/Psyducks2/Psyducks2/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Psyducks2/Psyducks2/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
