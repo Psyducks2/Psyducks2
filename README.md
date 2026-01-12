@@ -3,13 +3,16 @@
 
 <p align="center">
   <a href="https://portifolio-three-pi-11.vercel.app">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/luis-roberto-4aa69b30a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:linsroberto2016@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/Psyducks2">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -26,27 +29,45 @@ Sou um desenvolvedor apaixonado por lógica e infraestrutura, migrando do desenv
 
 ---
 
+### 📊 GitHub Profile
+
+<div align="center">
+  <a href="https://github.com/Psyducks2">
+    <img src="https://img.shields.io/github/followers/Psyducks2?label=Seguidores&style=for-the-badge&color=5865F2&labelColor=0D1117" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/stars/Psyducks2?label=Estrelas&style=for-the-badge&color=5865F2&labelColor=0D1117" alt="GitHub Stars"/>
+  </a>
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,mysql,lua,c,git,vscode,androidstudio" />
 </div>
 
----
-
-### 📊 Minhas Estatísticas no GitHub
+<br/>
 
 <div align="center">
-  <a href="https://github.com/Psyducks2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Psyducks2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyducks2&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-  </a>
-</div>
+  
+#### **Frontend & Mobile**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<p align="center">
-  <a href="https://portifolio-three-pi-11.vercel.app">Visite meu Portfólio</a>
-</p>
+#### **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="center">
-  <img src="https://github.com/Psyducks2/Psyducks2/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+#### **Game Development**
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+#### **Ferramentas**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
 </div>
