@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Luis%20Roberto&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Lead%20%7C%20Systems%20Architect&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Luis%20Roberto&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20Systems%20Architect&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%9A%80+Desenvolvedor+Full+Stack+%26+Mobile+Android;%E2%9A%A1+Especialista+em+Sistemas+de+Alta+Concorr%C3%AAncia+(Lua%2FC);%F0%9F%9B%A1%EF%B8%8F+Tech+Lead+%7C+Qualidade+de+Software+%26+Processos+de+QA;%F0%9F%8C%BF+Criador+do+BioTrack+(IoT+%26+Monitoramento+Clim%C3%A1tico);%F0%9F%92%BB+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Kotlin">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=0969DA&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%9A%80+Desenvolvedor+Full+Stack+%26+Mobile+Android;%E2%9A%A1+Especialista+em+Sistemas+de+Alta+Concorr%C3%AAncia+(Lua%2FC);%F0%9F%9B%A1%EF%B8%8F+Tech+Lead+%7C+Qualidade+de+Software+%26+Processos+de+QA;%F0%9F%8C%BF+Criador+do+BioTrack+(IoT+%26+Monitoramento+Clim%C3%A1tico);%F0%9F%92%BB+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Kotlin">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%9A%80+Desenvolvedor+Full+Stack+%26+Mobile+Android;%E2%9A%A1+Especialista+em+Sistemas+de+Alta+Concorr%C3%AAncia+(Lua%2FC);%F0%9F%9B%A1%EF%B8%8F+Tech+Lead+%7C+Qualidade+de+Software+%26+Processos+de+QA;%F0%9F%8C%BF+Criador+do+BioTrack+(IoT+%26+Monitoramento+Clim%C3%A1tico);%F0%9F%92%BB+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Kotlin">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%9A%80+Desenvolvedor+Full+Stack+%26+Mobile+Android;%E2%9A%A1+Especialista+em+Sistemas+de+Alta+Concorr%C3%AAncia+(Lua%2FC);%F0%9F%9B%A1%EF%B8%8F+Engenharia+de+Software+%7C+Qualidade+%26+Processos+de+QA;%F0%9F%8C%BF+Criador+do+BioTrack+(IoT+%26+Monitoramento+Clim%C3%A1tico);%F0%9F%92%BB+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Kotlin">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=0969DA&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%9A%80+Desenvolvedor+Full+Stack+%26+Mobile+Android;%E2%9A%A1+Especialista+em+Sistemas+de+Alta+Concorr%C3%AAncia+(Lua%2FC);%F0%9F%9B%A1%EF%B8%8F+Engenharia+de+Software+%7C+Qualidade+%26+Processos+de+QA;%F0%9F%8C%BF+Criador+do+BioTrack+(IoT+%26+Monitoramento+Clim%C3%A1tico);%F0%9F%92%BB+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Kotlin">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%9A%80+Desenvolvedor+Full+Stack+%26+Mobile+Android;%E2%9A%A1+Especialista+em+Sistemas+de+Alta+Concorr%C3%AAncia+(Lua%2FC);%F0%9F%9B%A1%EF%B8%8F+Engenharia+de+Software+%7C+Qualidade+%26+Processos+de+QA;%F0%9F%8C%BF+Criador+do+BioTrack+(IoT+%26+Monitoramento+Clim%C3%A1tico);%F0%9F%92%BB+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Kotlin">
   </picture>
 </p>
 
@@ -44,7 +44,7 @@
 ```yaml
 desenvolvedor:
   nome: Luis Roberto
-  experiencia: "4+ anos de desenvolvimento prático & liderança técnica"
+  experiencia: "4+ anos de desenvolvimento prático de software"
   foco_principal: "Sistemas Web Full Stack, Arquitetura Resiliente & Mobile Android"
   diferencial: "Pensamento sistêmico forjado em ambientes de altíssima concorrência e tempo real (Lua/C)"
   metodologias: "Clean Architecture, MVVM, CI/CD, QA & Debugging rigoroso"
@@ -55,7 +55,7 @@ desenvolvedor:
 Sou desenvolvedor com sólida vivência em <strong>sistemas distribuídos de alta concorrência</strong>, arquitetura <strong>Web Full Stack</strong> e <strong>Mobile nativo</strong>. Minha base técnica foi construída ao longo de 4+ anos projetando microssistemas em Lua e C para plataformas multiplayer (FiveM/RedM), onde tolerância a falhas, latência mínima e persistência de dados sob carga massiva de usuários simultâneos são vitais.
 </p>
 <p align="justify">
-Atuei como <strong>Coordenador de Desenvolvimento / Tech Lead</strong> na <em>Aura Group</em>, liderando squads multidisciplinares, refinando pipelines de QA e reduzindo drasticamente incidentes críticos em produção. Atualmente desenvolvo sistemas corporativos de gestão e atuo como instrutor técnico na <em>JGC Consultoria</em>.
+Possuo experiência prática no desenvolvimento de sistemas para a <em>Aura Group</em>, refinando pipelines de QA, arquitetando soluções e reduzindo incidentes críticos em produção. Atualmente desenvolvo sistemas corporativos de gestão e atuo como instrutor técnico na <em>JGC Consultoria</em>.
 </p>
 
 ---
