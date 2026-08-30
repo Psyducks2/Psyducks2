@@ -121,7 +121,7 @@ Atuei como <strong>Coordenador de Desenvolvimento / Tech Lead</strong> na <em>Au
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
 | **Frontend & UI** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005C84?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005C84?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
 | **Mobile Nativo** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square) ![Room](https://img.shields.io/badge/Room_DB-2C3E50?style=flat-square) ![Coroutines](https://img.shields.io/badge/Coroutines_/_Flow-7F52FF?style=flat-square) |
 | **Sistemas & Performance** | ![Lua](https://img.shields.io/badge/Lua_(4+_Anos)-2C2D72?style=flat-square&logo=lua&logoColor=white) ![C Language](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![FiveM](https://img.shields.io/badge/FiveM_/_RedM-EA580C?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | **Bancos de Dados** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL_Modelagem-005C84?style=flat-square&logo=databricks&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
@@ -129,9 +129,11 @@ Atuei como <strong>Coordenador de Desenvolvimento / Tech Lead</strong> na <em>Au
 
 </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,kotlin,androidstudio,mysql,c,lua,git,github,vscode,tailwind,linux" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,kotlin,androidstudio&perline=8" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,c,lua,aws,git,github,vscode,linux&perline=8" />
+</div>
 
 ---
 
@@ -140,14 +142,22 @@ Atuei como <strong>Coordenador de Desenvolvimento / Tech Lead</strong> na <em>Au
 <div align="center">
 
   <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Fundamentals_(AI--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-900" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Cisco_Networking_Academy-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity" />
   
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/LinkedIn_Learning-Fundamentos_de_Cibersegurança-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/LinkedIn_Learning-Segurança_da_Informação-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="InfoSec" />
+  <img src="https://img.shields.io/badge/Cursa-AWS_na_Prática-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS na Prática" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Cursa-Testes_de_Software_&_QA-238636?style=for-the-badge&logo=codefactor&logoColor=white" alt="QA" />
-  <img src="https://img.shields.io/badge/JGC_Consultoria-Power_BI_Prático_para_Negócios-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JGC_Consultoria-Power_BI_Prático-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/LinkedIn_Learning-Fundamentos_de_Cibersegurança-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Cybersecurity" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn_Learning-Segurança_da_Informação-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="InfoSec" />
 
 </div>
 
@@ -156,15 +166,21 @@ Atuei como <strong>Coordenador de Desenvolvimento / Tech Lead</strong> na <em>Au
 ### 📊 Estatísticas & Atividade GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Psyducks2&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="95%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Psyducks2&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=false&count_private=true" alt="GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Psyducks2&layout=compact&theme=tokyonight&locale=pt-br&hide_border=false" alt="Top Languages" width="48%" />
+  <table border="0" width="100%">
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://streak-stats.demolab.com?user=Psyducks2&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Psyducks2&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=false&count_private=true" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Psyducks2&layout=compact&theme=tokyonight&locale=pt-br&hide_border=false" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
